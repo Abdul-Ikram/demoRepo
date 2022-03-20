@@ -1,0 +1,2 @@
+We are inside newBranch.
+This is demoRepo.txt file.
